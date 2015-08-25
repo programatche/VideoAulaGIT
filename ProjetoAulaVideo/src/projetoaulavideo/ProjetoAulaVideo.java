@@ -17,7 +17,7 @@ public class ProjetoAulaVideo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("É GITHUB BURRRROOO");
+        System.out.println("EU JA SABIA");
     }
     
 }
